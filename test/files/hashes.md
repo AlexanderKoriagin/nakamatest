@@ -1,0 +1,9 @@
+# sha256 for test files
+
+## 1.0.0.json
+
+312119bc2ec8e367a4a7320a49eba3972ddfb3c04c7bc948ecda97a5429947de
+
+## 1.0.1.json
+
+4e8b76ab4f85f91d3a5fcd17198de10a280673abb4852fb8e2c5634779aac84e
